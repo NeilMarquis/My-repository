@@ -1,5 +1,5 @@
 # My-repository
 
-Hi chums1
+Hi Chums!
 
 This is my first commit, big deal for a commitment-phobe!
